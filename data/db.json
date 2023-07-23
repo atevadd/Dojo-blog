@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My second new Website",
+      "body": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae distinctio aliquam soluta iure, nesciunt voluptatibus esse asperiores eveniet animi facilis cum minus nostrum alias reiciendis saepe a hic obcaecati fugiat.",
+      "author": "Mario",
+      "id": 2
+    },
+    {
+      "title": "My third new Website",
+      "body": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae distinctio aliquam soluta iure, nesciunt voluptatibus esse asperiores eveniet animi facilis cum minus nostrum alias reiciendis saepe a hic obcaecati fugiat.",
+      "author": "Mario",
+      "id": 3
+    },
+    {
+      "title": "Hello There",
+      "body": "sdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "author": "John Doe",
+      "id": 4
+    }
+  ]
+}
